@@ -1,5 +1,5 @@
 # About
-This repo represents work that is being done to investigate the datasets provided during   
+This repo represents work that is being done to investigate and clean the datasets provided during   
 Aleksandra's summer research project with Dr. Jonathan Gryak at CUNY Queens College.  
 
 Note the actual repo for the models and data is private: https://github.com/gryakj/ml-food-allergy   
